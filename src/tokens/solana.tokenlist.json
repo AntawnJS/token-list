@@ -12,3 +12,16 @@
   }
 }
 add my token to Solana list
+{
+  "chainId": 101,
+  "address": "5D799hijx6NoDz7rwx572TEuvZQDtoQGvCMGrCht1f29",
+  "symbol": "CHRIST",
+  "name": "Christ",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/YOUR_IMAGE.png",
+  "tags": ["faith", "community"],
+  "extensions": {
+    "website": "https://www.youtube.com/@NoIdols7",
+    "description": "Christ Coin is a faith-driven digital asset working alongside YHWH and future partner coins to build a unified kingdom economy. Every transaction supports real-world community projects and God's work."
+  }
+}
